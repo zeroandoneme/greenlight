@@ -260,8 +260,8 @@ en:
     search:
       start: Start searching...
   landing:
-    about: "You can create your own rooms to host sessions, or join others using a short and convenient link."
-    welcome: Welcome to our Conference.
+    about: Create your own rooms to host sessions, or join others using a short and convenient link.
+    welcome: Conferencing made Easy!
     video: 
     upgrade: 
     version: We've released a new version.
