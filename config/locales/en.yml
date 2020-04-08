@@ -161,7 +161,7 @@ en:
         username: Username
       title: Manage Users
   add_to_google_calendar: "Add to Google Calendar"
-  bigbluebutton: BigBlueButton
+  bigbluebutton: Conference
   bigbluebutton_exception: Oops, there was an error when starting the meeting!
   cancel: Cancel
   cookies:
@@ -181,7 +181,7 @@ en:
   errors:
     bigbluebutton:
       help: Please make sure the proper steps have been taken. <a href="%{doc_link}">Learn more</a>
-      message: Invalid BigBlueButton Endpoint and Secret
+      message: Invalid  Endpoint and Secret
       title: Server Error
     internal:
       message: Looks like something went wrong on our end.
